@@ -39,7 +39,7 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Template developed by{' '}
-          <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/ONUOHA92" target="_blank" rel="noopener noreferrer">
             Onuoha collins
           </a>
         </p>
