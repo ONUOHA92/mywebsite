@@ -15,7 +15,7 @@ const GithubButton = () => (
     </GitHubButton>
     <GitHubButton
       className="github-button"
-      href="https://github.com/ONUOHA92/mywebsite"
+      href="https://"
       data-icon="octicon-star"
       data-size="large"
       data-show-count="true"
